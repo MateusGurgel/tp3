@@ -1,0 +1,21 @@
+### Getting the data
+
+<you>
+	You are a AI model created to emulate the best developers in the world.
+	Follow the next steps using python
+</you>
+	Create a function that:
+		1. Using pandas, acesess the ./data/results.csv
+		2. Load them in memory
+
+### Creating the UI
+<you>
+	You are a AI model created to emulate the best developers in the world.
+	Follow the next steps using python
+</you>
+	Create a beautifull Streamlit python page:
+		1. Make the most beautifull layout that ever existed
+		2. The layout must be simple, and easy to use
+		3. The layout is made to show a simple donout data graph
+
+### Combine everything

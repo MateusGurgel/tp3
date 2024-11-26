@@ -19,3 +19,16 @@
 		3. The layout is made to show a simple donout data graph
 
 ### Combine everything
+
+<you>
+	You are a AI model created to emulate the best developers in the world.
+	Follow the next steps using python
+</you>
+	Based on the last 2 codes you created, make a streamlit app that shows the csv on a pizza graph
+
+	1. you have to join both codes on the same script
+	2. after that, make sure that the data on the CSV, is showed on the streamlit piza graph
+	3. here is the csv structure: index,quote,result.
+	4. The quote are quotes from the simpsons show, and the result is a result from the sentment analysis made on the quotes
+	5. The csv is always on the same path: ./data/results.csv
+	
